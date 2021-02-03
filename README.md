@@ -12,4 +12,6 @@ Arstechnica recommends readers to use an alternative messenger, such as [Signal]
 
 ## Article 2
 
-In Cnet's []()
+In Cnet's [WhatsApp responds to concerns over privacy policy update](https://www.cnet.com/news/whatsapp-responds-to-concerns-over-privacy-policy-update/), they detail WhatApp's response to the onslought of users condemning WhatApp's decision to force their 2 billion users to accept sweeping changes to their privacy policy and terms of service. Many users have publicly called for others to not use WhatsApp anymore and switch to privacy-focused alternatives like Signal and Telegram; Most notably, [Elon Musk](https://twitter.com/elonmusk/status/1347165127036977153?s=20).
+
+WhatsApp made a few arguments to why their new policies and terms might be beneficial to users. One benefit they claimed was having better targeted Facebook ads. Another benefit is the ability to talk to businesses via WhatsApp and allow them to use that data for their marketing. Lastly, the Head of WhatsApp at Facebook Will Cathcart asserted that WhatsApp will still be end-to-end encrypted. He tweeted on Friday: "With end-to-end encryption, we cannot see your private chats or calls and neither can Facebook. We're committed to this technology and committed to defending it globally."
